@@ -1,4 +1,6 @@
 # Inventory-ChatBot-SQL-using-LangGraph
+![software engineering architectural diagram](software%20engineering%20architectural%20diagram.png)
+
 ## 1. Environment Variables
 This project uses a .env file to manage sensitive API keys. To set it up:
 
