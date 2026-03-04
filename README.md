@@ -13,10 +13,12 @@ To ensure all required libraries are installed correctly, run the following comm
 * **Windows:**
 Create a virtual environment
 python -m venv venv
+* **Activate the environment**
+source venv/bin/activate
 * **Install all project dependencies**
 pip install -r requirements.txt
 
-## 🚀 Running the Inventory Chatbot
+## 3.🚀 Running the Inventory Chatbot
 Once your environment is set up and activated, you can start the SQL-based chatbot by running:
 
 * **Bash**
